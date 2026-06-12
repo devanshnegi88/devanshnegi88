@@ -291,28 +291,6 @@ I enjoy solving real-world engineering problems through distributed systems, eve
 
 ---
 
-# Coding Profiles
-
-<p align="center">
-
-<a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-green?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
-</p>
-
 ---
 
 # GitHub Analytics
@@ -324,16 +302,6 @@ I enjoy solving real-world engineering problems through distributed systems, eve
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshnegi88&theme=tokyonight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanshnegi88&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=devanshnegi88&theme=tokyonight&row=2&column=4"/>
 
 </div>
 
