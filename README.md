@@ -362,7 +362,6 @@ Open_To:
 <a href="mailto:devanshnegi88@gmail.com">Email</a> •
 <a href="https://www.linkedin.com/in/devansh-negi005">LinkedIn</a> •
 <a href="https://github.com/devanshnegi88">GitHub</a> •
-<a href="https://par4good-gamma.vercel.app">Portfolio</a>
 
 </div>
 
